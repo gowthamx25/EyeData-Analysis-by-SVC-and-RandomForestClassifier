@@ -1,1 +1,18 @@
-This project focuses on analyzing eye-related data using supervised machine learning techniques, specifically Support Vector Classifier (SVC) and Random Forest Classifier, to build reliable predictive models. The workflow covers data preprocessing, feature handling, model training, and performance evaluation, all implemented in a structured Jupyter Notebook for easy experimentation and comparison. By evaluating multiple classifiers on the same dataset, the project highlights their strengths and limitations, providing practical insight into model selection and application for real-world data analysis tasks.
+### 🔍 Project Overview
+
+* End-to-end machine learning analysis on **eye-related data**
+* Built using **Support Vector Classifier (SVC)** and **Random Forest Classifier**
+* Focused on building reliable and interpretable classification models
+
+### ⚙️ Workflow
+
+* Data preprocessing and feature handling
+* Model training and hyperparameter tuning
+* Performance evaluation and comparison across classifiers
+
+### 📊 Key Highlights
+
+* Side-by-side comparison of multiple ML algorithms on the same dataset
+* Clear insights into model strengths, limitations, and trade-offs
+* Practical guidance for **model selection in real-world classification tasks**
+
